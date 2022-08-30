@@ -1,4 +1,4 @@
 # TinyML_Book_RF
 Archivio file per Tiny ML - Book RF
 
-![Logo_Tiny ML](https://user-images.githubusercontent.com/99560690/186990589-63a330cd-5e0e-44be-88e5-d51d0a7a3b06.png)
+![Logo_Tiny ML_2](https://user-images.githubusercontent.com/99560690/187560069-9a324c22-7cfe-4f8e-afcf-ed8a79514003.png)
