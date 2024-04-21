@@ -1,4 +1,4 @@
-# TinyML_Book_RF
-Archivio file per Tiny ML - Book RF
+# AIoT_Book_RF
+Archivio file per AIoT - Book RF
 
-![Logo_Tiny ML_2](https://user-images.githubusercontent.com/99560690/187560069-9a324c22-7cfe-4f8e-afcf-ed8a79514003.png)
+![image](https://github.com/bemakerorg/AIoT_Book_RF/assets/99560690/5fce8f3c-fef9-4032-a60f-15ec1aac97bf)
